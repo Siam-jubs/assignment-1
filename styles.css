@@ -1,0 +1,54 @@
+/* first */
+
+.navbar{
+    font-weight: bold;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    color: black;
+}
+.btn-un{
+    padding: 5px 10px;
+   background-color: rgb(40, 214, 63);
+   color: #0D1321;
+}
+/* 2nd part */
+.center{
+    background-image: url(B10A1-Challenge-Begins-main/assets/Hero-bg.png);
+
+
+}
+    
+.secondary{
+  padding: 0px 750px ;
+  
+}
+.hope{
+    padding:0px 710px;
+}
+.contact{
+    margin-left: 125px;
+    background-color:#0D1321;
+    color: #FFFFFF;
+    padding: 10px 15px;
+}
+/* 3rd part */
+.third{
+    margin-top: 100px;
+    padding: 50px 750px;
+}
+
+/* third part 2nd ep. */
+
+div ul li{
+    list-style: none;
+    padding: 75px 200px;
+}
+div ul{
+    display: flex;
+    justify-content: space-around;
+   
+}
+
+
+    
